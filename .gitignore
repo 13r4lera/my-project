@@ -11,3 +11,6 @@ env/
 # Log files
 # Ignore any log files that may appear
 *.log
+
+.vscode/
+
