@@ -12,5 +12,9 @@ env/
 # Ignore any log files that may appear
 *.log
 
+<<<<<<< HEAD
 .vscode/
 
+=======
+.vscode/
+>>>>>>> d15dc83 (Changed report)
